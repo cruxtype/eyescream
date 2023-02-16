@@ -11,8 +11,6 @@
 
   <script src="https://github.com/cruxtype/eyescream/blob/main/js/e.js"></script>
 
-</script>
-
 
 </head>
 <body>
