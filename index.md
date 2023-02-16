@@ -16,4 +16,3 @@ layout: default
 </body>
 
 </html>
-This example assumes that you want to use the default layout, which is a standard Jekyll layout that should work well with your HTML code. If you want to use a different layout, you can specify it in the front matter at the top of the file.
