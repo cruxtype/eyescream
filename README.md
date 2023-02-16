@@ -9,7 +9,7 @@
   </form>
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
-  <script src="eyescream/js/e.js"></script>
+  <script src="https://github.com/cruxtype/eyescream/blob/main/js/e.js"></script>
 
 </script>
 
